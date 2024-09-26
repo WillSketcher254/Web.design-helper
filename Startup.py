@@ -31,3 +31,5 @@ create_html.place(x=50, y=50)
 style_btn = customtkinter.CTkButton(app, text='Style', font=('Comic Sans MS', 18), hover_color='#8A2BE2', command=add_style)
 style_btn.place(x=50, y=100)
 app.mainloop()
+
+
